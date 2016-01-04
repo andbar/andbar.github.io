@@ -623,3 +623,7 @@ body {
     opacity:0;
     display:none
 }
+
+.img-centered {
+    margin:0 auto
+}
