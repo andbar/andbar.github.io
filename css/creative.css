@@ -539,13 +539,15 @@ body {
 
 .portfolio-item .portfolio-caption h4 {
     margin:0;
-    color: #fff
+    color: #fff;
+    font-size:18px
 }
 
 .portfolio-item .portfolio-caption p {
     font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
-    font-style:italic;
-    font-size:16px;
+    text-transform:uppercase;
+    font-weight:600;
+    font-size:14px;
     margin:0
 }
 
