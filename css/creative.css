@@ -531,7 +531,7 @@ body {
 .portfolio-item .portfolio-caption {
     max-width:400px;
     margin:0 auto;
-    background-color:#444444;
+    background-color:#f05f40;
     color: #fff;
     text-align:center;
     padding:25px
@@ -539,6 +539,7 @@ body {
 
 .portfolio-item .portfolio-caption h4 {
     margin:0;
+    color: #fff
 }
 
 .portfolio-item .portfolio-caption p {
