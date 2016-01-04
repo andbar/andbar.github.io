@@ -537,12 +537,11 @@ body {
 }
 
 .portfolio-item .portfolio-caption h4 {
-    text-transform:none;
     margin:0
 }
 
 .portfolio-item .portfolio-caption p {
-    font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
     font-style:italic;
     font-size:16px;
     margin:0
@@ -570,7 +569,7 @@ body {
 
 .portfolio-modal .modal-content p.item-intro {
     margin:20px 0 30px;
-    font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
     font-style:italic;
     font-size:16px
 }
