@@ -493,7 +493,7 @@ body {
 }
 
 .portfolio-item .portfolio-link .portfolio-hover {
-    background:#C0C0C0;
+    background:rgba(68,68,68,.7);
     position:absolute;
     width:100%;
     height:100%;
