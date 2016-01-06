@@ -441,6 +441,54 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
+.btn-primary-black {
+    border-color: #222;
+    color: #222;
+    background-color: #fff;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
+
+.btn-primary-black:hover,
+.btn-primary-black:focus,
+.btn-primary-black.focus,
+.btn-primary-black:active,
+.btn-primary-black.active,
+.open > .dropdown-toggle.btn-primary-black {
+    border-color: #444444;
+    color: #444444;
+    background-color: #fff;
+}
+
+.btn-primary-black:active,
+.btn-primary-black.active,
+.open > .dropdown-toggle.btn-primary {
+    background-image: none;
+}
+
+.btn-primary-black.disabled,
+.btn-primary-black[disabled],
+fieldset[disabled] .btn-primary-black,
+.btn-primary-black.disabled:hover,
+.btn-primary-black[disabled]:hover,
+fieldset[disabled] .btn-primary-black:hover,
+.btn-primary-black.disabled:focus,
+.btn-primary-black[disabled]:focus,
+fieldset[disabled] .btn-primary-black:focus,
+.btn-primary-black.disabled.focus,
+.btn-primary-black[disabled].focus,
+fieldset[disabled] .btn-primary-black.focus,
+.btn-primary-black.disabled:active,
+.btn-primary-black[disabled]:active,
+fieldset[disabled] .btn-primary-black:active,
+.btn-primary-black.disabled.active,
+.btn-primary-black[disabled].active,
+fieldset[disabled] .btn-primary-black.active {
+    border-color: #222;
+    background-color: #222;
+}
+
 .btn {
     border: 0;
     border-radius: 300px;
