@@ -754,8 +754,6 @@ a.white-hover-orange {
 }
 
 a.white-hover-orange:hover,
-a.white-hover-orange:focus,
-a.white-hover-orange:active,
-a.white-hover-orange.active, {
+a.white-hover-orange:focus {
     color: #f05f40
 }
