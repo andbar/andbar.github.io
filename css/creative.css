@@ -748,3 +748,14 @@ ul.banner-view-buttons {
         margin-bottom: 0;
     }
 }
+
+a.white-hover-orange {
+    color: #fff
+}
+
+a.white-hover-orange:hover,
+a.white-hover-orange:focus,
+a.white-hover-orange:active,
+a.white-hover-orange.active, {
+    color: #f05f40
+}
